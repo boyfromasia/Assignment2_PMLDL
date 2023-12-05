@@ -3,7 +3,7 @@
 There are two solutions presented in the repository:
 
 * [Wide and Deep Neural Network](https://arxiv.org/abs/1606.07792)
-* SVM (Final Model)
+* SVD (Final Model)
 
 ### Author
 
